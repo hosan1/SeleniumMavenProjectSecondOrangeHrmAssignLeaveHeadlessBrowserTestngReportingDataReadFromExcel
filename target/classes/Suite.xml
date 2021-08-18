@@ -1,0 +1,16 @@
+<suite name="SeleniuTestNGMaven">
+
+	<test name="LoginTestModule">
+		<classes>
+			<class name="com.bat.SeleniumMavenProjectSecond.Test.LoginTest" />
+		</classes>
+	</test>
+
+	<test name="AssignLeaveTestModule">
+		<classes>
+			<class
+				name="com.bat.SeleniumMavenProjectSecond.Test.AssignLeaveTest" />
+		</classes>
+	</test>
+
+</suite>

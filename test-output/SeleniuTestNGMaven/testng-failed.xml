@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SeleniuTestNGMaven]">
+  <test thread-count="5" name="AssignLeaveTestModule(failed)">
+    <classes>
+      <class name="com.bat.SeleniumMavenProjectSecond.Test.AssignLeaveTest">
+        <methods>
+          <include name="buttonAndUrlVerify"/>
+          <include name="assignleavetest"/>
+        </methods>
+      </class> <!-- com.bat.SeleniumMavenProjectSecond.Test.AssignLeaveTest -->
+    </classes>
+  </test> <!-- AssignLeaveTestModule(failed) -->
+</suite> <!-- Failed suite [SeleniuTestNGMaven] -->
